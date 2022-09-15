@@ -169,8 +169,6 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
     
 -   [ddTerm](https://extensions.gnome.org/extension/3780/ddterm/) : collapsible terminal - Gnome shell extention
     
--   [Pdd](https://github.com/jarun/pdd) : Easy date and time difference calculator
-    
 -   [Qalc](https://installati.one/ubuntu/21.04/qalc/) : Easy unit conversions and mathematical operations on terminal [apt]
     
 -   [Httpie](https://github.com/httpie/httpie) : [User friendly interaction](https://httpie.io/docs/cli/examples) with HTTP servers and APIs from the terminal

@@ -206,3 +206,5 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
  -   [Nfty](https://github.com/dschep/ntfy) : A utility for sending push notifications to phone or desktop on demand and when commands finish
  
  -   [Pdd](https://github.com/jarun/pdd) : Calculates date and time difference. Also works as a timer and stopwatch. Can be installed directly with apt package manager
+ 
+ -   [Grc](https://github.com/garabik/grc) and [Colortail](https://github.com/joakim666/colortail) : command line utility with colorized text output [ stdout, stderr, file contents, ping, ps, logfile ]

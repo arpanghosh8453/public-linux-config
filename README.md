@@ -206,3 +206,5 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
  -   [Rclone](https://github.com/rclone/rclone) : sync files and directories to and from different cloud storage providers
  
  -   [Nfty](https://github.com/dschep/ntfy) : A utility for sending push notifications to phone or desktop on demand and when commands finish
+ 
+ -   [Pdd](https://github.com/jarun/pdd) : Calculates date and time difference. Also works as a timer and stopwatch. Can be installed directly with apt package manager

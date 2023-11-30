@@ -102,7 +102,7 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
     
 -   [Thefuck](https://github.com/nvbn/thefuck) : corrects errors in previous console commands with [zsh plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/thefuck/README.md)
 
--   [Lnav](https://github.com/tstack/lnav) : Log file navigator
+-   [Lnav](https://github.com/tstack/lnav) : Terminal log file navigator
     
 -   [Lazydocker](https://github.com/jesseduffield/lazydocker)  : Docker container TUI
     
@@ -116,9 +116,7 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
 
 -   [hyperfine](https://github.com/sharkdp/hyperfine) : For comparing command runtime (benchmarking)
 
--   [autin](https://atuin.sh) : For database driven history search
-
--   [lnav](https://github.com/tstack/lnav) : Terminal log file navigator
+-   [atuin](https://atuin.sh) : For database driven history search
 
 -   [httpie](https://httpie.io/cli) : Better curl or wget 
   

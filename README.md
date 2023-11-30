@@ -112,6 +112,8 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
 
 -   [Deb-get](https://github.com/wimpysworld/deb-get) : for easy instralling and updating 3rd party .deb packages
 
+-   [tre](https://github.com/dduan/tre) : For directory tree generator
+
   
 
 ## Optional

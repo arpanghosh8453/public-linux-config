@@ -114,6 +114,13 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
 
 -   [tre](https://github.com/dduan/tre) : For directory tree generator
 
+-   [hyperfine](https://github.com/sharkdp/hyperfine) : For comparing command runtime (benchmarking)
+
+-   [autin](https://atuin.sh) : For database driven history search
+
+-   [lnav](https://github.com/tstack/lnav) : Terminal log file navigator
+
+-   [httpie](https://httpie.io/cli) : Better curl or wget 
   
 
 ## Optional

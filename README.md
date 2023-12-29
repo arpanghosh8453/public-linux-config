@@ -118,7 +118,9 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
 
 -   [atuin](https://atuin.sh) : For database driven history search
 
--   [httpie](https://httpie.io/cli) : Better curl or wget 
+-   [httpie](https://httpie.io/cli) : Better curl or wget
+
+-   [Czkawka](https://github.com/qarmin/czkawka) : File duplication finder 
   
 
 ## Optional

@@ -84,7 +84,7 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
     
 -   [Duf](https://github.com/muesli/duf): Better disk space analysis ( df )
     
--   [Ranger](https://github.com/ranger/ranger): File browser and content preview [apt]
+-   [Ranger](https://github.com/ranger/ranger) or [Browsr](https://github.com/juftin/browsr): File browser and content preview [apt]
     
 -   [Ncdu](https://dev.yorhel.nl/ncdu) or [dua](https://github.com/Byron/dua-cli/releases) or [Dust](https://github.com/bootandy/dust) : disk usage utility | dua<Dust=ncdu
     

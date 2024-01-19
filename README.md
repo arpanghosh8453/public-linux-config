@@ -120,7 +120,9 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
 
 -   [httpie](https://httpie.io/cli) : Better curl or wget
 
--   [Czkawka](https://github.com/qarmin/czkawka) : File duplication finder 
+-   [Czkawka](https://github.com/qarmin/czkawka) : File duplication finder
+  
+-   [jq](https://github.com/jqlang/jq) : Command line JSON processor
   
 
 ## Optional

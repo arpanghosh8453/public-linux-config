@@ -51,6 +51,11 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git ${Z
 ```bash
 sudo add-apt-repository ppa:neovim-ppa/unstable && sudo apt-get update && sudo apt-get install neovim
 ```
+
+-   [NvChad](https://github.com/NvChad/NvChad) : Customized neovim [bob]
+```bash
+sudo add-apt-repository ppa:neovim-ppa/unstable && sudo apt-get update && sudo apt-get install neovim
+```
     
 -   [vim-plug](https://github.com/junegunn/vim-plug) : neovim plugin panager
 ```bash

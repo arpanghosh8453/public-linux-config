@@ -54,7 +54,7 @@ sudo add-apt-repository ppa:neovim-ppa/unstable && sudo apt-get update && sudo a
 
 -   [NvChad](https://github.com/NvChad/NvChad) : Customized neovim [bob]
 ```bash
-sudo add-apt-repository ppa:neovim-ppa/unstable && sudo apt-get update && sudo apt-get install neovim
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 ```
     
 -   [vim-plug](https://github.com/junegunn/vim-plug) : neovim plugin panager

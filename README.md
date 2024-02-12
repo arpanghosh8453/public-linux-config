@@ -107,7 +107,7 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
     
 -   [Thefuck](https://github.com/nvbn/thefuck) : corrects errors in previous console commands with [zsh plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/thefuck/README.md)
 
--   [Lnav](https://github.com/tstack/lnav) : Terminal log file navigator
+-   [Lnav](https://github.com/tstack/lnav) or [Toolong](https://github.com/Textualize/toolong) : Terminal log file navigator
     
 -   [Lazydocker](https://github.com/jesseduffield/lazydocker)  : Docker container TUI
     

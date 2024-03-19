@@ -136,6 +136,7 @@ sudo apt-get remove speedtest-cli ; curl -s https://packagecloud.io/install/repo
     
 
   
+-   [Lynis](https://github.com/CISOfy/lynis) : Security auditing tool for Linux
 
 -   Cockpit: web console for raspberry pi
     
